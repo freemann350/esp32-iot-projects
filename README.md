@@ -10,4 +10,5 @@ Repository created to showcase and save the programming of an assortment of sens
 
 **Sensors:**
 NOTE: I only own 37 out of the 45 shown)
+
 ![Sensors](img/sensors.png)
