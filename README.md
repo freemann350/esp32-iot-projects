@@ -9,7 +9,7 @@ Repository created to showcase and save the programming of an assortment of sens
 - M5Stack Atom Lite (USB Type-C)
 
 **Sensors:**
-![Sensors](img/sensors.png)
+![Sensors](https://github.com/freemann350/esp32-iot-projects/blob/main/img/sensors.png)
 1. Infrared sensor receiver module
 2. Laser head sensor module
 3. Temperature and humidity sensor module
